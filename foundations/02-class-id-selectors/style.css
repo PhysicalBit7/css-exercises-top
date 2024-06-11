@@ -1,0 +1,20 @@
+.odd {
+    background-color: pink;
+    font-size: large;
+}
+
+
+.large {
+    font-size: x-large;
+}
+
+#one {
+    font-size: xx-large;
+    color: blue;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: x-large;
+}
